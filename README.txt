@@ -9,5 +9,5 @@ Highest Selling Product by Quantity: Laptop
 Main Observation:
 
 Laptop generated the highest revenue.
-Highest Selling Product by Quantity Laptop.
+Laptop was the highest-selling product by quantity.
 The business generated most of its revenue from Electronics products.
