@@ -7,7 +7,6 @@ Lowest Performing Product: Mouse
 Highest Selling Product by Quantity: Laptop
 
 Main Observation:
-Main Observation:
 
 Laptop generated the highest revenue.
 Mouse had the highest quantity sold.
